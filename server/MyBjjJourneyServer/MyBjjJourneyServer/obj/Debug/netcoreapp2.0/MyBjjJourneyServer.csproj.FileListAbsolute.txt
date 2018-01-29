@@ -1,0 +1,11 @@
+/Users/jordancordova/Desktop/MyBjjJourney/server/MyBjjJourneyServer/MyBjjJourneyServer/bin/Debug/netcoreapp2.0/MyBjjJourneyServer.deps.json
+/Users/jordancordova/Desktop/MyBjjJourney/server/MyBjjJourneyServer/MyBjjJourneyServer/bin/Debug/netcoreapp2.0/MyBjjJourneyServer.runtimeconfig.json
+/Users/jordancordova/Desktop/MyBjjJourney/server/MyBjjJourneyServer/MyBjjJourneyServer/bin/Debug/netcoreapp2.0/MyBjjJourneyServer.runtimeconfig.dev.json
+/Users/jordancordova/Desktop/MyBjjJourney/server/MyBjjJourneyServer/MyBjjJourneyServer/bin/Debug/netcoreapp2.0/MyBjjJourneyServer.dll
+/Users/jordancordova/Desktop/MyBjjJourney/server/MyBjjJourneyServer/MyBjjJourneyServer/bin/Debug/netcoreapp2.0/MyBjjJourneyServer.pdb
+/Users/jordancordova/Desktop/MyBjjJourney/server/MyBjjJourneyServer/MyBjjJourneyServer/obj/Debug/netcoreapp2.0/MyBjjJourneyServer.csprojResolveAssemblyReference.cache
+/Users/jordancordova/Desktop/MyBjjJourney/server/MyBjjJourneyServer/MyBjjJourneyServer/obj/Debug/netcoreapp2.0/MyBjjJourneyServer.csproj.CoreCompileInputs.cache
+/Users/jordancordova/Desktop/MyBjjJourney/server/MyBjjJourneyServer/MyBjjJourneyServer/obj/Debug/netcoreapp2.0/MyBjjJourneyServer.AssemblyInfoInputs.cache
+/Users/jordancordova/Desktop/MyBjjJourney/server/MyBjjJourneyServer/MyBjjJourneyServer/obj/Debug/netcoreapp2.0/MyBjjJourneyServer.AssemblyInfo.cs
+/Users/jordancordova/Desktop/MyBjjJourney/server/MyBjjJourneyServer/MyBjjJourneyServer/obj/Debug/netcoreapp2.0/MyBjjJourneyServer.dll
+/Users/jordancordova/Desktop/MyBjjJourney/server/MyBjjJourneyServer/MyBjjJourneyServer/obj/Debug/netcoreapp2.0/MyBjjJourneyServer.pdb

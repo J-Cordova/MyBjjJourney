@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{8D1D8299-EEB8-41AE-AE5F-9E532D720F9D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyBjjJourneyServer/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="MyBjjJourneyServer/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="MyBjjJourneyServer/Api/ValuesController.cs" Line="13" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MyBjjJourneyServer PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
